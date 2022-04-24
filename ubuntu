@@ -1,0 +1,14 @@
+$ sudo su
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get upgrade
+$ sudo mkfs.vat -F 32 /dev/sdc -I
+apt-get
+ sudo apt-get install
+ sudo apt-get remove
+ sudo apt-get purge
+ ls
+ cd
+ rm
+ free
+ uname -a
